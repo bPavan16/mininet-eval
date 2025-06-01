@@ -1,0 +1,105 @@
+PING synthetic.data (10.0.0.2): 56 data bytes
+64 bytes from 10.0.0.2: icmp_seq=1 ttl=64 time=15.547 ms
+64 bytes from 10.0.0.2: icmp_seq=2 ttl=64 time=22.164 ms
+64 bytes from 10.0.0.2: icmp_seq=3 ttl=64 time=35.168 ms
+64 bytes from 10.0.0.2: icmp_seq=4 ttl=64 time=42.087 ms
+64 bytes from 10.0.0.2: icmp_seq=5 ttl=64 time=45.215 ms
+64 bytes from 10.0.0.2: icmp_seq=6 ttl=64 time=57.714 ms
+64 bytes from 10.0.0.2: icmp_seq=7 ttl=64 time=63.651 ms
+64 bytes from 10.0.0.2: icmp_seq=8 ttl=64 time=65.985 ms
+64 bytes from 10.0.0.2: icmp_seq=9 ttl=64 time=73.459 ms
+64 bytes from 10.0.0.2: icmp_seq=10 ttl=64 time=77.232 ms
+64 bytes from 10.0.0.2: icmp_seq=11 ttl=64 time=82.775 ms
+64 bytes from 10.0.0.2: icmp_seq=12 ttl=64 time=93.378 ms
+64 bytes from 10.0.0.2: icmp_seq=13 ttl=64 time=95.346 ms
+64 bytes from 10.0.0.2: icmp_seq=14 ttl=64 time=101.979 ms
+64 bytes from 10.0.0.2: icmp_seq=15 ttl=64 time=111.486 ms
+64 bytes from 10.0.0.2: icmp_seq=16 ttl=64 time=111.264 ms
+64 bytes from 10.0.0.2: icmp_seq=17 ttl=64 time=119.327 ms
+64 bytes from 10.0.0.2: icmp_seq=18 ttl=64 time=120.465 ms
+64 bytes from 10.0.0.2: icmp_seq=19 ttl=64 time=123.001 ms
+64 bytes from 10.0.0.2: icmp_seq=20 ttl=64 time=130.478 ms
+64 bytes from 10.0.0.2: icmp_seq=21 ttl=64 time=132.772 ms
+64 bytes from 10.0.0.2: icmp_seq=22 ttl=64 time=140.269 ms
+64 bytes from 10.0.0.2: icmp_seq=23 ttl=64 time=140.451 ms
+64 bytes from 10.0.0.2: icmp_seq=24 ttl=64 time=142.649 ms
+64 bytes from 10.0.0.2: icmp_seq=25 ttl=64 time=146.377 ms
+64 bytes from 10.0.0.2: icmp_seq=26 ttl=64 time=158.452 ms
+64 bytes from 10.0.0.2: icmp_seq=27 ttl=64 time=161.475 ms
+64 bytes from 10.0.0.2: icmp_seq=28 ttl=64 time=162.740 ms
+64 bytes from 10.0.0.2: icmp_seq=29 ttl=64 time=164.921 ms
+64 bytes from 10.0.0.2: icmp_seq=30 ttl=64 time=170.204 ms
+64 bytes from 10.0.0.2: icmp_seq=31 ttl=64 time=175.198 ms
+64 bytes from 10.0.0.2: icmp_seq=32 ttl=64 time=173.762 ms
+64 bytes from 10.0.0.2: icmp_seq=33 ttl=64 time=180.505 ms
+64 bytes from 10.0.0.2: icmp_seq=34 ttl=64 time=180.449 ms
+64 bytes from 10.0.0.2: icmp_seq=35 ttl=64 time=185.670 ms
+64 bytes from 10.0.0.2: icmp_seq=36 ttl=64 time=179.397 ms
+64 bytes from 10.0.0.2: icmp_seq=37 ttl=64 time=188.154 ms
+64 bytes from 10.0.0.2: icmp_seq=38 ttl=64 time=186.012 ms
+64 bytes from 10.0.0.2: icmp_seq=39 ttl=64 time=185.284 ms
+64 bytes from 10.0.0.2: icmp_seq=40 ttl=64 time=191.167 ms
+64 bytes from 10.0.0.2: icmp_seq=41 ttl=64 time=197.001 ms
+64 bytes from 10.0.0.2: icmp_seq=42 ttl=64 time=191.547 ms
+64 bytes from 10.0.0.2: icmp_seq=43 ttl=64 time=192.110 ms
+64 bytes from 10.0.0.2: icmp_seq=44 ttl=64 time=195.878 ms
+64 bytes from 10.0.0.2: icmp_seq=45 ttl=64 time=200.057 ms
+64 bytes from 10.0.0.2: icmp_seq=46 ttl=64 time=196.601 ms
+64 bytes from 10.0.0.2: icmp_seq=47 ttl=64 time=195.790 ms
+64 bytes from 10.0.0.2: icmp_seq=48 ttl=64 time=200.765 ms
+64 bytes from 10.0.0.2: icmp_seq=49 ttl=64 time=198.785 ms
+64 bytes from 10.0.0.2: icmp_seq=50 ttl=64 time=195.170 ms
+From 10.0.0.1 icmp_seq=51 Destination Host Unreachable
+From 10.0.0.1 icmp_seq=52 Destination Host Unreachable
+From 10.0.0.1 icmp_seq=53 Destination Host Unreachable
+64 bytes from 10.0.0.2: icmp_seq=54 ttl=64 time=195.886 ms
+From 10.0.0.1 icmp_seq=55 Destination Host Unreachable
+64 bytes from 10.0.0.2: icmp_seq=56 ttl=64 time=196.328 ms
+64 bytes from 10.0.0.2: icmp_seq=57 ttl=64 time=197.245 ms
+64 bytes from 10.0.0.2: icmp_seq=58 ttl=64 time=192.725 ms
+64 bytes from 10.0.0.2: icmp_seq=59 ttl=64 time=193.998 ms
+64 bytes from 10.0.0.2: icmp_seq=60 ttl=64 time=197.014 ms
+64 bytes from 10.0.0.2: icmp_seq=61 ttl=64 time=192.543 ms
+64 bytes from 10.0.0.2: icmp_seq=62 ttl=64 time=191.885 ms
+64 bytes from 10.0.0.2: icmp_seq=63 ttl=64 time=186.805 ms
+64 bytes from 10.0.0.2: icmp_seq=64 ttl=64 time=183.827 ms
+64 bytes from 10.0.0.2: icmp_seq=65 ttl=64 time=184.615 ms
+64 bytes from 10.0.0.2: icmp_seq=66 ttl=64 time=187.862 ms
+64 bytes from 10.0.0.2: icmp_seq=67 ttl=64 time=181.133 ms
+64 bytes from 10.0.0.2: icmp_seq=68 ttl=64 time=180.975 ms
+64 bytes from 10.0.0.2: icmp_seq=69 ttl=64 time=180.509 ms
+64 bytes from 10.0.0.2: icmp_seq=70 ttl=64 time=175.717 ms
+64 bytes from 10.0.0.2: icmp_seq=71 ttl=64 time=175.035 ms
+64 bytes from 10.0.0.2: icmp_seq=72 ttl=64 time=164.047 ms
+64 bytes from 10.0.0.2: icmp_seq=73 ttl=64 time=167.469 ms
+64 bytes from 10.0.0.2: icmp_seq=74 ttl=64 time=157.113 ms
+64 bytes from 10.0.0.2: icmp_seq=75 ttl=64 time=158.680 ms
+From 10.0.0.1 icmp_seq=76 Destination Host Unreachable
+64 bytes from 10.0.0.2: icmp_seq=77 ttl=64 time=149.551 ms
+64 bytes from 10.0.0.2: icmp_seq=78 ttl=64 time=142.714 ms
+64 bytes from 10.0.0.2: icmp_seq=79 ttl=64 time=145.934 ms
+64 bytes from 10.0.0.2: icmp_seq=80 ttl=64 time=137.289 ms
+64 bytes from 10.0.0.2: icmp_seq=81 ttl=64 time=133.269 ms
+64 bytes from 10.0.0.2: icmp_seq=82 ttl=64 time=130.588 ms
+64 bytes from 10.0.0.2: icmp_seq=83 ttl=64 time=121.689 ms
+64 bytes from 10.0.0.2: icmp_seq=84 ttl=64 time=121.303 ms
+64 bytes from 10.0.0.2: icmp_seq=85 ttl=64 time=118.506 ms
+64 bytes from 10.0.0.2: icmp_seq=86 ttl=64 time=116.504 ms
+64 bytes from 10.0.0.2: icmp_seq=87 ttl=64 time=107.719 ms
+64 bytes from 10.0.0.2: icmp_seq=88 ttl=64 time=98.598 ms
+64 bytes from 10.0.0.2: icmp_seq=89 ttl=64 time=93.745 ms
+64 bytes from 10.0.0.2: icmp_seq=90 ttl=64 time=94.463 ms
+64 bytes from 10.0.0.2: icmp_seq=91 ttl=64 time=84.629 ms
+64 bytes from 10.0.0.2: icmp_seq=92 ttl=64 time=83.642 ms
+64 bytes from 10.0.0.2: icmp_seq=93 ttl=64 time=68.905 ms
+64 bytes from 10.0.0.2: icmp_seq=94 ttl=64 time=63.360 ms
+64 bytes from 10.0.0.2: icmp_seq=95 ttl=64 time=55.781 ms
+64 bytes from 10.0.0.2: icmp_seq=96 ttl=64 time=57.202 ms
+64 bytes from 10.0.0.2: icmp_seq=97 ttl=64 time=44.245 ms
+64 bytes from 10.0.0.2: icmp_seq=98 ttl=64 time=44.876 ms
+64 bytes from 10.0.0.2: icmp_seq=99 ttl=64 time=29.943 ms
+64 bytes from 10.0.0.2: icmp_seq=100 ttl=64 time=24.600 ms
+
+--- 10.0.0.2 ping statistics ---
+100 packets transmitted, 85 received, 15.0% packet loss
+rtt min/avg/max/mdev = 15.323/45.832/198.521/32.421 ms

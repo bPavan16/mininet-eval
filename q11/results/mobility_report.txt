@@ -1,0 +1,21 @@
+=== MOBILE STATION SIMULATION REPORT ===
+
+SETUP:
+- Three access points with a mobile station moving past them
+- AP1 at position 20, AP2 at position 70, AP3 at position 120
+- Link quality varies based on distance from each AP
+
+HANDOVERS:
+- Position 51.3: Handover from AP1 to AP2
+- Position 102.7: Handover from AP2 to AP3
+
+PING PERFORMANCE:
+- Average RTT: 23.83 ms
+- Minimum RTT: 20.00 ms
+- Maximum RTT: 80.00 ms
+- RTT spikes detected: 2
+
+CONCLUSION:
+The mobile station successfully performed 2 handovers
+as it moved through the coverage areas of the three access points.
+Significant RTT variation was observed during handovers.

@@ -1,0 +1,16 @@
+*** WiFi Simulation Results ***
+
+--- Individual Tests (No Contention) ---
+Station 1: 10.40 Mbits/sec, 15.1% estimated loss
+Station 2: 25.30 Mbits/sec, 6.7% estimated loss
+Total throughput: 35.70 Mbits/sec (sequential)
+
+--- Simultaneous Tests (With Contention) ---
+Station 1: 7.28 Mbits/sec, 25.1% estimated loss
+Station 2: 17.71 Mbits/sec, 16.7% estimated loss
+Total throughput: 24.99 Mbits/sec (concurrent)
+
+*** Wireless Contention Analysis ***
+Throughput change due to contention: -30.0%
+Additional loss due to contention: 20.0%
+

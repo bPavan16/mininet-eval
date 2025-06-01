@@ -1,0 +1,9 @@
+WIRELESS HANDOVER SIMULATION REPORT
+===================================
+
+SIMULATION SETUP:
+- AP1 (s1): Initial quality link (10Mbps, 5ms delay, 0% loss)
+- AP2 (s2): Stable quality link (8Mbps, 15ms delay, 1% loss)
+
+SIMULATION RESULTS:
+- No handover occurred during simulation

@@ -1,0 +1,4 @@
+Protocol,Throughput (Mbps),Theoretical Max (Mbps)
+802.11a,34.43,54
+802.11g,39.06,54
+802.11n,79.22,100

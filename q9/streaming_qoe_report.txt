@@ -1,0 +1,25 @@
+===============================================
+VIDEO STREAMING HANDOVER QUALITY OF EXPERIENCE
+===============================================
+
+SUMMARY:
+- Total simulation time: 29.8 seconds
+- Handover occurred at: 15.0 seconds
+
+BEFORE HANDOVER:
+- Average buffer level: 86.0%
+- Average video bitrate: 1.63 Mbps
+- Stall events: 0
+
+AFTER HANDOVER:
+- Average buffer level: 65.7%
+- Average video bitrate: 1.14 Mbps
+- Stall events: 0
+
+IMPACT ANALYSIS:
+- Buffer level change: -23.6%
+- Bitrate change: -30.1%
+
+CONCLUSION:
+Handover had a SEVERE negative impact on video streaming quality.
+Users would experience significant interruptions in their viewing experience.

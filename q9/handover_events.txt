@@ -1,0 +1,3 @@
+Time(s) | Position | Event
+--------------------------
+15.0 | 0.50 | Handover from AP1 to AP2
